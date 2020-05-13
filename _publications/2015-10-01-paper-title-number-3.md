@@ -2,7 +2,7 @@
 title: "UNC++Duino: A kit for learning to program robots in Python and C++ starting from blocks"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: ''
 date: 2016-10-05
 venue: 'Robotics in Education'
 paperurl: 'http://umm.famaf.unc.edu.ar/wp-content/uploads/2014/03/main-1.pdf'
