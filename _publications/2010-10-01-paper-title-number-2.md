@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "Understanding the benefits of game jams: Exploring the potential for engaging young learners in STEM"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: ''
+date: 2016-07-11
+venue: 'ITiCSE 16'
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3024906.3024913'
+citation: ''
 ---
-This paper is about the number 2. The number 3 is left for future work.
+There is a wide range of implementations of game jams throughout the world. Game jams have been organized in a number of different formats, themes, and timeframes [43]. What they all have in common is the opportunity for participants to make a game within a specified constraint such as time, location, technology, or theme. Additionally, game jams as social experience support active and collaborative learning formats. In this paper, we discuss the potential of game jams for young learners, describe successful jam events in this context, and provide a list of tools useful for organizing game jams for this target group.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](https://dl.acm.org/doi/abs/10.1145/3024906.3024913)
