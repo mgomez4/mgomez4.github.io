@@ -2,7 +2,7 @@
 title: "
 Text-based Programming in Elementary School: A Comparative Study of Programming Abilities in Children with and without Block-based Experience"
 collection: publications
-permalink: /publication/https://dl.acm.org/doi/abs/10.1145/3304221.3319734
+permalink: /publication/2016-10-01-paper-title-number-7
 excerpt: ''
 date: 2019-07-01
 venue: 'ITiCSE 19'
